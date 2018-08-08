@@ -1,13 +1,7 @@
-295110 Ece YAVUZ
-Yararlanılan kaynaklar:
-https://mehmetsalihdeveci.net/2010/06/21/atin-satranc-tahtasi-uzerinde-ki-64-hareketi/
-https://en.wikipedia.org/wiki/Knight%27s_tour
-https://rizwan94.blogspot.com.tr/2013/10/rv-college-fest-exceptions-2013-coding.html
+Ã–dev yapÄ±mÄ±nda derste gÃ¶sterilmiÅŸ olan iki boyutlu matris yapÄ±mÄ± mantÄ±ÄŸÄ± kullanÄ±ldÄ±ktan sonra 
+kaynaklardan edinilen bilgiler doÄŸrusltusunda atÄ±n konumlandÄ±rÄ±ldÄ±ÄŸÄ± yerden hareketi iÃ§in gerekli 
+olan mantÄ±k Ã¶ÄŸrenildi ve koda dÃ¶kÃ¼ldÃ¼.
+Verilen Ã¶dev sayesinde derste uygulanmÄ±ÅŸ olan dizi yapÄ±sÄ± mantÄ±ÄŸÄ± ve switch case kullanÄ±mÄ± pekiÅŸtirilmiÅŸ oldu 
 
-Ödev yapımında derste gösterilmiş olan iki boyutlu matris yapımı mantığı kullanıldıktan sonra 
-kaynaklardan edinilen bilgiler doğrusltusunda atın konumlandırıldığı yerden hareketi için gerekli 
-olan mantık öğrenildi ve koda döküldü.
-Verilen ödev sayesinde derste uygulanmış olan dizi yapısı mantığı ve switch case kullanımı pekiştirilmiş oldu 
-
-Kodun doğru şekilde koşması için santranc_ödev.c uzantılı dosya birlikte aç yapıp CodeBlocks IDE'si 
-ile birlikte açılmalıdır.
+Kodun doÄŸru ÅŸekilde koÅŸmasÄ± iÃ§in santranc_Ã¶dev.c uzantÄ±lÄ± dosya birlikte aÃ§ yapÄ±p CodeBlocks IDE'si 
+ile birlikte aÃ§Ä±lmalÄ±dÄ±r.
